@@ -1,0 +1,10 @@
+{
+  "name": "collision-guard",
+  "version": "0.1.0",
+  "description": "Warns before editing a file another Claude Code session touched recently, and shows a live band naming what the other sessions are working on.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Baskers1"
+  },
+  "license": "MIT"
+}
